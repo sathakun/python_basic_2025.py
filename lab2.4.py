@@ -21,3 +21,8 @@ print("a is not equal to b:", (a != b))
 print("a is greater than or equal to b:", (a >= b))
 print("a is less than or equal to b:", (a <= b))
 
+david = "David"
+introduction = "Hello, my name is " + david + ". I am learning Python."
+print(introduction)
+age = 25
+print("I am", age, "years old.")    
