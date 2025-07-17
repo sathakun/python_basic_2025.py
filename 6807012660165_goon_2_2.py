@@ -1,0 +1,9 @@
+my_favorite_sport = "esport"
+email = 's6807012660165@email.kmutnb.ac.th'
+my_jon = "programmer"
+my_location = "bangkok"
+high = 60
+base = 30
+triangle_area = 0.5 *base *high
+total_score =80
+total_money =150.60
